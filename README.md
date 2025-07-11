@@ -65,12 +65,3 @@ This project is licensed under the **GNU GPL 3.0 License**.
 ## Screenshots
 
 *comming soon*
-
----
-
-## Contact
-
-For contributions or feedback, please reach out:
-
-📧 **[your.email@example.com](mailto:your.email@example.com)**
-🐙 [GitHub](https://github.com/yourusername)
